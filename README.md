@@ -4,7 +4,6 @@ Description:
 This project is a simple utility designed to enhance the navigation experience on your website. It provides a set of buttons that allow users to go back and forward in their browsing history. Additionally, it displays essential information about the user's screen and the current webpage URL.
 
 
-
 1. Installation:
    - To integrate this utility into your website, follow these steps:
      - Copy the contents of `script.js` and paste it into your project's JavaScript file.
